@@ -14,4 +14,4 @@ Rename All of the Repositories in our github profile in CLI.
 
 ### Images
 
-![Image1](./Images/Main.png)
+![Image1](./Images/Main_New.png)
